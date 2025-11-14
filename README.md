@@ -1,6 +1,6 @@
 # GPT-2 Text Generation — Fine-Tuning Project
 Prodigy Infotech Internship Task
-Author: Pranay Phepade
+Author: soham phadnis
 
 --------------------------------------------
 
