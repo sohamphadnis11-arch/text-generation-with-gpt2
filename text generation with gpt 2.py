@@ -2,7 +2,6 @@
 """
 Refactored GPT-2 Text Generation Script
 Prodigy Infotech Internship Task
-Author: Pranay Phepade
 """
 
 # ==========================================================
@@ -154,3 +153,4 @@ if __name__ == "__main__":
     save_model(model, tokenizer)
 
     print("\n🎉 Training complete! You can now generate custom text!")
+
